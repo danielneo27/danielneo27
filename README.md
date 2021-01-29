@@ -1,4 +1,4 @@
-### Olá, sou Daniel Petito - também conhecido como DanielNeo27 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
+### Olá, sou Daniel Neo - também conhecido como DanielNeo27 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=danielneo27&label=Profile%20views&color=63ca00&style=plastic" alt="danielneo27" />
 <img src="https://img.shields.io/github/followers/danielneo27?color=63ca00&style=plastic" style=" float:left, margin-right:10px" />
